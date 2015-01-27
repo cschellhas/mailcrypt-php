@@ -1,5 +1,4 @@
 <?php
-
 class mailcrypt{
 	public function crypt($email)
 	{
